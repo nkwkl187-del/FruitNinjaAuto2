@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Fruit Ninja Auto</string>
+    <string name="accessibility_label">Fruit Ninja Auto touch service</string>
+</resources>
